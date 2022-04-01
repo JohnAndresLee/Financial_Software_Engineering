@@ -1,0 +1,8 @@
+===============Create a new bar!===============
+Bar_ID: 6
+2022-03-18 10:19:33 HIGH: 510.2 LOW: 510.2 CLOSE: 510.2
+2022-03-18 10:19:36 HIGH: 510.2 LOW: 510.2 CLOSE: 510.2
+Traceback (most recent call last):
+  File "G:\lq201870119\exp3\Astocktrading.py", line 220, in <module>
+    sleep(3)
+KeyboardInterrupt
